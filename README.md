@@ -2,17 +2,19 @@
 
 ## NFT
 
-- Ultiverse 重点参与每天上去做点任务
-  https://mission.ultiverse.io/
-- Galxe 二季度
+  - Ultiverse 重点参与每天上去做点任务
+    https://mission.ultiverse.io/
+  - Galxe 二季度
 
-  [Galxe Community Missions S2W1 by Galxe | Galxe](https://galxe.com/Galxe/campaign/GCKJRUdxn3)
+    [Galxe Community Missions S2W1 by Galxe | Galxe](https://galxe.com/Galxe/campaign/GCKJRUdxn3)
 
-- AI Rein 每天去抽  
-  https://discord.gg/48SZ6rat
+  - AI Rein 每天去抽  
+    https://discord.gg/48SZ6rat
   
-- aigcchain 待考察
-  https://discord.gg/aigcchain
+### 抽奖
+  #### 2023/03/24
+  - https://www.alphabot.app/10-metamerge-wls-createra
+  - https://www.alphabot.app/metamerge-x-hellven-to6t7b
 
 ### 白名单
   - https://www.whoisemily.com/whitelist
