@@ -2,10 +2,8 @@
 
 ## NFT
 
-- 30 NFT giveaways 
-  抽30個NFT了！有兩隻電羊喔
-  https://mission.ultiverse.io/t/d2hpdGVkYXl8MTY3OTQ1MDUxMDA2Mg==
-
+- Ultiverse 重点参与每天上去做点任务
+  https://mission.ultiverse.io/
 - Galxe 二季度
 
   [Galxe Community Missions S2W1 by Galxe | Galxe](https://galxe.com/Galxe/campaign/GCKJRUdxn3)
