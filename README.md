@@ -11,13 +11,13 @@
   [Galxe Community Missions S2W1 by Galxe | Galxe](https://galxe.com/Galxe/campaign/GCKJRUdxn3)
 
 - AI Rein 每天去抽  
-
+  https://discord.gg/48SZ6rat
+  
 - aigcchain 待考察
-
   https://discord.gg/aigcchain
 
 ### 白名单
- - https://www.whoisemily.com/whitelist
+  - https://www.whoisemily.com/whitelist
 
 ## 撸毛
   - 撸毛原则(参考何币大佬及群内老哥建议)
@@ -33,14 +33,12 @@
       3，交易金额 (最少1WU)
       4，主网交易
       5，git捐款
-      
-### zks
 
+### zks
 - https://twitter.com/11dizhu/status/1637097001711177729?s=46&t=EFmdYBHG8VUPPlgwC14ukw
 - [5美元搞定ZigZag做市商机器人，附高成交率技巧（小白版） — LNP (mirror.xyz)](https://mirror.xyz/lnpandy.eth/oX6s3dp18GHr5Q0cG_V-zK4UBUsPJzaGdYS1ECsUsUY)
 
 ### starknet
-
 - 任务一
   跨链-要求:
   跨eth到StarkNet-链接:
@@ -88,17 +86,13 @@
   钱包余额-20u+
 
 ### Zeta
-
 ![Zeta](Zeta.jpg)
 
 ### SEI
-
 ![Sei](Sei.jpg)
 
 ### ALEO
-
 #### 合约教程
-
 - https://www.youtube.com/watch?v=EkNk7MnzA8s
 - https://developer.aleo.org/testnet/getting_started/deploy_execute_demo/
 - https://mirror.xyz/garysdevil.eth/BtAHrX9iJpF-3Y-DHDKFcXUbinwgIbb7lMnzv5xF5k0
@@ -106,8 +100,10 @@
 ### 节点
 #### SHM节点部署
   - https://mirror.xyz/7645666.eth/Gz6A1DUpNAPA2JzhBmfASAS0NzKaxqgOclivzZ7sBRI
+  - 
 #### celestia 
   - 有顶级投资人Balaji和Polychain、Delphi、Blockchain、Spartan、Jump Crypto 、IOSG、A&T、、Figment
     Binance Labs 、Divergence、Maven11七家头部风投参投两轮融资5650万美金的模块化公链Celestia 测试激励网活动开始了，分1500万代币https://docs.celestia.org/nodes/blockspace-race/
+
 #### monad 
   - 有Dragonfly(6)、Placeholder(28)、Lemniscap(86)、Shima(32)和顶级投资人Naval共四家头部机构参与仅种子轮就融资1900万刀的L1公链Monad跑节点填表 https://www.monad.xyz/validators
