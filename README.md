@@ -73,11 +73,11 @@
 
 ### Zeta
 
-![0501a9c56a40317306c8b94168d0127](C:\Users\yangyang\AppData\Local\Temp\WeChat Files\0501a9c56a40317306c8b94168d0127.jpg)
+![Zeta](Zeta.jpg)
 
 ### SEI
 
-![f1e2d88b46e44d66063360d5a2680a6](C:\Users\yangyang\AppData\Local\Temp\WeChat Files\f1e2d88b46e44d66063360d5a2680a6.jpg)
+![Sei](Sei.jpg)
 
 ### ALEO
 
