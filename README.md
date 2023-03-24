@@ -8,8 +8,12 @@
 
     [Galxe Community Missions S2W1 by Galxe | Galxe](https://galxe.com/Galxe/campaign/GCKJRUdxn3)
 
+  - Menta
+    ![menta](menta.png)
+
   - AI Rein 每天去抽  
     https://discord.gg/48SZ6rat
+  
   
 ### 抽奖
   #### 2023/03/24
