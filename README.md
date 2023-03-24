@@ -16,6 +16,9 @@
 
   https://discord.gg/aigcchain
 
+### 白名单
+ - https://www.whoisemily.com/whitelist
+
 ## 撸毛
 
 ### zks
