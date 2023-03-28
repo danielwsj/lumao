@@ -104,7 +104,7 @@
 ### 节点
 #### SHM节点部署
   - https://mirror.xyz/7645666.eth/Gz6A1DUpNAPA2JzhBmfASAS0NzKaxqgOclivzZ7sBRI
-  - 
+  - https://discord.gg/shardeum
 #### celestia 
   - 有顶级投资人Balaji和Polychain、Delphi、Blockchain、Spartan、Jump Crypto 、IOSG、A&T、、Figment
     Binance Labs 、Divergence、Maven11七家头部风投参投两轮融资5650万美金的模块化公链Celestia 测试激励网活动开始了，分1500万代币https://docs.celestia.org/nodes/blockspace-race/
