@@ -84,6 +84,7 @@
 ![Zeta](Zeta.jpg)
 
 ### SEI
+ -Sei项目不参与了，要求方面过于PUA，PUA项目不建议参与，投入产出比不划算
 ![Sei](Sei.jpg)
 
 ### ALEO
