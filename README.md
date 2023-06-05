@@ -1,15 +1,7 @@
 # 汇总及部分脚本
 
-## NFT
-
-  - Ultiverse 重点参与每天上去做点任务
-    https://mission.ultiverse.io/
-
-  - https://discord.gg/HBkWBFxF
-    新的跑鞋项目 融资800W 可以试试
-
-### 白名单
-  - https://www.whoisemily.com/whitelist
+# 汇总及部分脚本
+专心撸毛，不参与NFT了，精力不够
 
 ## 撸毛
   - 撸毛原则(参考何币大佬及群内老哥建议)
