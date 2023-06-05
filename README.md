@@ -17,6 +17,7 @@
       4，主网交易  
       5，git捐款  
 
+
 ### zks
 - https://twitter.com/11dizhu/status/1637097001711177729?s=46&t=EFmdYBHG8VUPPlgwC14ukw
 - [5美元搞定ZigZag做市商机器人，附高成交率技巧（小白版） — LNP (mirror.xyz)](https://mirror.xyz/lnpandy.eth/oX6s3dp18GHr5Q0cG_V-zK4UBUsPJzaGdYS1ECsUsUY)
@@ -25,6 +26,8 @@
   https://mirror.xyz/allengege.eth/ce2RMsgiaQVJ8xUzWlwkZ5uJd8wIcZzYaCyHPnKv6U0
 - ZkSync Era 测试网交互教程
    https://mirror.xyz/allengege.eth/0ImCseIxlnmvJ-KleQ7RclyMKYErFq46FFFlweJ3ofw
+- ZK组LP教程
+  https://kdocs.cn/l/chuWCKsGU88m
 
 
 ### starknet
